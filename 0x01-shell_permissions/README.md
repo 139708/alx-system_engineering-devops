@@ -1,1 +1,1 @@
-Shell Permissions
+Directories permissions
