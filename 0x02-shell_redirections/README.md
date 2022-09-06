@@ -1,1 +1,1 @@
-Script that writes last line
+Script that writes first lines
