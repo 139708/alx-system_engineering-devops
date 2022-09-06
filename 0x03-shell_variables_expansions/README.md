@@ -1,1 +1,1 @@
-New global variable
+True knowledge
