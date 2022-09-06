@@ -1,1 +1,1 @@
-What about two
+Script that writes last line
