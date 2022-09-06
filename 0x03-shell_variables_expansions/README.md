@@ -1,1 +1,1 @@
-Script that reads environment variables
+Script that lists local variables
