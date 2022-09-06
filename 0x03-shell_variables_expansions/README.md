@@ -1,1 +1,1 @@
-Directories in the path
+Script that reads environment variables
