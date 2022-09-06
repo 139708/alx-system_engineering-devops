@@ -1,1 +1,1 @@
-Path
+Directories in the path
