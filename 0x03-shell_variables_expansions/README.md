@@ -1,1 +1,1 @@
-Script that prints user hello
+path action
