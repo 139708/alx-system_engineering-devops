@@ -1,1 +1,1 @@
-Script that lists local variables
+New local variable
