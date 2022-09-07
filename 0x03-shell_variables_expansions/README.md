@@ -1,1 +1,1 @@
-Print line from the input
+print from the input
