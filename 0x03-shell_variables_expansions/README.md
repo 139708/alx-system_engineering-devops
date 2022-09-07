@@ -1,1 +1,1 @@
-rot13
+Print line from the input
